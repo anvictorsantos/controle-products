@@ -1,4 +1,4 @@
-# laravel 5.5
+# laravel 5.6
 
 ## Sobre o projeto
 O projeto controle de artigos é um projeto desenvolvido em Laravel 5.6. O projeto tem como objetivo ser uma aplicação para a criação, visualização, atualização e deleção de produtos.
