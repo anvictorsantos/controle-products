@@ -34,4 +34,4 @@ $ DB_CONNECTION=sqlite
 ```
 
 ## PHP versão
-Eu utilizei a versão 8.1 do PHP
+Eu utilizei a versão 7.43.0 do PHP
