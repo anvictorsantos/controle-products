@@ -1,9 +1,9 @@
 # laravel 5.5
 
 ## Sobre o projeto
-O projeto controle de artigos é um projeto desenvolvido em Laravel 5.5. O projeto tem como objetivo ser uma aplicação para a criação, visualização, atualização e deleção de artigos.
+O projeto controle de artigos é um projeto desenvolvido em Laravel 5.6. O projeto tem como objetivo ser uma aplicação para a criação, visualização, atualização e deleção de produtos.
 
-Além disso, o objetivo desse projeto é servir como base de estudos sobre o framework laravel e suas respectivas mudanças ao longo das versões. Logo, esse é o segundo dentro de nove projetos com o mesmo intuito.
+Além disso, o objetivo desse projeto é servir como base de estudos sobre o framework laravel e suas respectivas mudanças ao longo das versões. Logo, esse é o terceiro dentro de nove projetos com o mesmo intuito.
 
 ## Build setup
 ```bash
